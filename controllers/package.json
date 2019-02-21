@@ -1,0 +1,18 @@
+{
+  "name": "sh_t-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zahor & omri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "node-fetch": "^2.3.0",
+    "unirest": "^0.5.1"
+  }
+}
